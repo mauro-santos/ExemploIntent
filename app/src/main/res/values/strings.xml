@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemplo Intent</string>
+    <string name="lbl_chamar_browser">Chamar Browser</string>
+    <string name="hint_url">URL</string>
+    <string name="btn_abrir_browser">Abrir Browser</string>
+    <string name="url_invalida">URL Inválida</string>
+    <string name="ok">OK</string>
+    <string name="erro">Erro</string>
+</resources>

@@ -22,4 +22,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/lbl_fazer_ligacao" />
+
+    <Button
+        android:id="@+id/btnExemploParametros"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_exemplo_parametros" />
 </LinearLayout>

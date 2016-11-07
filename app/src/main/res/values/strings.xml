@@ -10,4 +10,7 @@
     <string name="btn_fazer_ligacao">Fazer Ligação</string>
     <string name="hint_telefone">Nº Telefone</string>
     <string name="lbl_fazer_ligacao">Fazer Ligação</string>
+    <string name="lbl_confirmar">Confirmar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_exemplo_parametros">Exemplo Parâmetros</string>
 </resources>

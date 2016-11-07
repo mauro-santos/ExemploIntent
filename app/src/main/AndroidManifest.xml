@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ChamarBrowserActivity" />
-        <activity android:name=".FazerLigacaoActivity"></activity>
+        <activity android:name=".FazerLigacaoActivity" />
+        <activity android:name=".ExemploParametrosActivity"></activity>
     </application>
 
 </manifest>

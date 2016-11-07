@@ -4,6 +4,10 @@
     <string name="hint_url">URL</string>
     <string name="btn_abrir_browser">Abrir Browser</string>
     <string name="url_invalida">URL Inválida</string>
+    <string name="numero_invalido">Número Inválido</string>
     <string name="ok">OK</string>
     <string name="erro">Erro</string>
+    <string name="btn_fazer_ligacao">Fazer Ligação</string>
+    <string name="hint_telefone">Nº Telefone</string>
+    <string name="lbl_fazer_ligacao">Fazer Ligação</string>
 </resources>

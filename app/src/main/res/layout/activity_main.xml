@@ -16,4 +16,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/lbl_chamar_browser" />
+
+    <Button
+        android:id="@+id/btnFazerLigacao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_fazer_ligacao" />
 </LinearLayout>
